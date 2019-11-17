@@ -23,6 +23,8 @@ int main()
 
 	delete Tree;
 
+
+
 	/*for (int& Number : GivenNumbers)
 	{
 		bool Persists = true;
